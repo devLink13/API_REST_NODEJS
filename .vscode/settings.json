@@ -1,0 +1,10 @@
+{
+  "eslint.workingDirectories": ["./"],
+  "eslint.options": {
+    "overrideConfigFile": ".eslintrc.js"
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ]
+}
