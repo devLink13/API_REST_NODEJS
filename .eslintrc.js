@@ -18,5 +18,6 @@ module.exports = {
       optionalDependencies: false,
       peerDependencies: false,
     }],
+    'no-param-reassign': 'off',
   },
 };
